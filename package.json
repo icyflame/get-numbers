@@ -1,6 +1,6 @@
 {
   "name": "get-numbers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get all the numbers from an array",
   "license": "MIT",
   "repository": "icyflame/get-numbers",

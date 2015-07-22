@@ -1,0 +1,33 @@
+{
+  "name": "get-numbers",
+  "version": "0.0.0",
+  "description": "Get all the numbers from an array",
+  "license": "MIT",
+  "repository": "icyflame/get-numbers",
+  "author": {
+    "name": "Siddharth Kannan",
+    "email": "kannan.siddharth12@gmail.com",
+    "url": "icyflame.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "get",
+    "numbers",
+    "integers",
+    "floats"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "semistandard": "6.1.1"
+  }
+}
